@@ -13,7 +13,7 @@ submit.addEventListener("click", function (e) {
       break;
     }
     reverseNumber += 1;
-    if (reverseNumber > 200) {
+    if (reverseNumber > 1000) {
       break;
     }
   }
